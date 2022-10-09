@@ -32,103 +32,243 @@ If you are a beginner, the mentors (You can ask in DSC AIT [Discord](https://dis
 
 Hope we help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge!
 
-## Beginner-friendly issues
+<!-- omit in toc -->
 
-| Serial No. | Repository| Link to Issue  | Language |
-|:--|:--|:--|:--|
-| 1. | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)  | `JavaScript`  |
-| 2. | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Configure ESLint](https://github.com/vinitshahdeo/inspirational-quotes/issues/277)  | `JavaScript`  |
-| 3. | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes) | [Test to avoid repetition of Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/120)  | `JavaScript`  |
-| 4. | [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [Taking query(#hashtags) as input from user](https://github.com/vinitshahdeo/jobtweets/issues/3)  | `Python` |
-| 5. | [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [[Pie Chart] Graphical representation of the results](https://github.com/vinitshahdeo/jobtweets/issues/28)  | `Python` |
-| 6. | [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) | [Add some more template](https://github.com/vinitshahdeo/Email-Signature-Template/issues/1)  | `HTML` `CSS`  |
-| 7. | [Hackathon-Timer](https://github.com/vinitshahdeo/Hackathon-Timer) | [Use GitHub webhooks](https://github.com/vinitshahdeo/Hackathon-Timer/issues/1)  | `NodeJS`  |
-| 8. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Prompt a confirmation before clearing all cookies](https://github.com/vinitshahdeo/Cookie-Manager/issues/5)  | `JavaScript` |
-| 9. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Delete cookies for a single domain](https://github.com/vinitshahdeo/Cookie-Manager/issues/4) | `JavaScript`  |
-| 10. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Display cookies based on the filter i.e. regex(say github.com)](https://github.com/vinitshahdeo/Cookie-Manager/issues/3) | `JavaScript`  |
-| 11. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [Refactor code in background.js](https://github.com/vinitshahdeo/Cookie-Manager/issues/12) | `JavaScript`  |
-| 12. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [[Documentation Missing] Add JSDoc](https://github.com/vinitshahdeo/Cookie-Manager/issues/13) | `JavaScript`  |
-| 13. | [Caucus](https://github.com/Rishabh-malhotraa/caucus/) | [Refactoring Code](https://github.com/Rishabh-malhotraa/caucus/issues/22) | `TypeScript`  |
-| 14. | [Caucus](https://github.com/Rishabh-malhotraa/caucus/) | [Adding Zen Mode](https://github.com/Rishabh-malhotraa/caucus/issues/8) | `TypeScript`  |
-| 15. | [Caucus](https://github.com/Rishabh-malhotraa/caucus/) | [Improving Contrast on Hover](https://github.com/Rishabh-malhotraa/caucus/issues/30) | `CSS`  |
-| 16. | [DSA-Java](https://github.com/utkarsh1504/DSA-Java/) | [new lesson: Introduction to Arrays](https://github.com/utkarsh1504/DSA-Java/issues/1) | `Java`,`Markdown`,`Images` |
-| 17. | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [Auto follower (Follow for Follow)](https://github.com/vinitshahdeo/Quotter/issues/6)  | `NodeJS`  |
-| 18. | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | `NodeJS` |
-| 19. | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [.gitignore is missing](https://github.com/vinitshahdeo/Quotter/issues/12)  | `NodeJS`  |
-| 20. | [SimpleBio](https://github.com/vinitshahdeo/SimpleBio)  | [Add more templates](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | `HTML` `CSS` `JS`  |
-| 21. | [HBD](https://github.com/vinitshahdeo/HBD/) | [Coder's Way of Wishing Happy Birthday](https://github.com/vinitshahdeo/HBD/issues/1)  | `Any Language` |
-| 22. | [Hashtagify](https://github.com/vinitshahdeo/Hashtagify) | [Suggest #Hashtags for Video](https://github.com/vinitshahdeo/Hashtagify/issues/3)  | `JavaScript`  |
-| 23. | [online-debate-system](https://github.com/vinitshahdeo/online-debate-system) | [UI Improvements](https://github.com/vinitshahdeo/online-debate-system/issues/3)  | `HTML` `CSS` `JS` |
-| 24. | [MiniYouTube](https://github.com/vinitshahdeo/MiniYouTube) | [Add ESLint](https://github.com/vinitshahdeo/MiniYouTube/issues/1)  | `React` |
-| 25. | [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [[HacktoberFest] UI Improvements](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues/1)  | `PHP` |
-| 26. | [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [Sort news on the basis of popularity and Date published](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/3)  | `JavaScript` |
-| 27. | [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [UI Improvements](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/5)  | `CSS` |
-| 28. | [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [Add Date published in News Card](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues/4)  | `HTML` `JavaScript` |
-| 29. | [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Union territories are missing from the Map of India](https://github.com/vinitshahdeo/Map-of-India/issues/1)  | `Node.js` |
-| 30. | [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Add a script to print the National Flag of India :india:](https://github.com/vinitshahdeo/Map-of-India/issues/4)  | `Node.js` |
-| 31. | [Map Of India](https://github.com/vinitshahdeo/Map-of-India/) | [Just border of Map of India](https://github.com/vinitshahdeo/Map-of-India/issues/2)  | `Node.js` |
-| 32. | [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [List content overflows from the container](https://github.com/vinitshahdeo/myFaculty/issues/1)  | `CSS` |
-| 33. | [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [UI improvisation](https://github.com/vinitshahdeo/myFaculty/issues/2)  | `React` |
-| 34. | [myFaculty](https://github.com/vinitshahdeo/myFaculty/) | [Responsive UI](https://github.com/vinitshahdeo/myFaculty/issues/3)  | `CSS` |
-| 35. | [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [UI Enhancements](https://github.com/vinitshahdeo/water-monitoring-system/issues/2)  | `HTML` `CSS` `JS` |
-| 36. | [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Project Documentation](https://github.com/vinitshahdeo/water-monitoring-system/issues/3)  | `Markdown` |
-| 37. | [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Setting up Cloud APIs to send/receive data](https://github.com/vinitshahdeo/water-monitoring-system/issues/4)  | `Node.js` `MongoDB` |
-| 38. | [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Admin Dashboard](https://github.com/vinitshahdeo/water-monitoring-system/issues/5)  | `HTML` `CSS` `JS` |
-| 39. | [Water Monitoring System](https://github.com/vinitshahdeo/water-monitoring-system/) | [Notify stakeholders](https://github.com/vinitshahdeo/water-monitoring-system/issues/6)  | `Node.js` |
-| 40. | [Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal/) | [Put a timer for quizzes](https://github.com/vinitshahdeo/covid19api/issues/2)  | `PHP` `JavaScript` |
-| 41. | [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to latest data for COVID-19 cases](https://github.com/vinitshahdeo/covid19api/issues/5)  | `GraphQL` |
-| 42. | [covid19api](https://github.com/vinitshahdeo/covid19api/) | [Add a query to get particular state data](https://github.com/vinitshahdeo/covid19api/issues/6)  | `GraphQL` |
-| 43. | [Resizrr](https://github.com/thisisamank/resizrr/) | [Add dark mode to `resizrr` app.](https://github.com/thisisamank/resizrr/issues/4) | `Dart` `Flutter` |
-| 44. | [Classified-ads-48](https://github.com/bacloud14/Classified-ads-48/) | [Correct Bootstrap layout and forms](https://github.com/bacloud14/Classified-ads-48/issues/6) | `HTML` `JavaScript` `Bootstrap` `Node.js` |
-| 45. | [Classified-ads-48](https://github.com/bacloud14/Classified-ads-48/) | [Improve Google Lighthouse score and other SEO audits](https://github.com/bacloud14/Classified-ads-48/issues/8) | `HTML` `JavaScript` `Bootstrap` `Node.js` |
-| 46. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [Create a Join Discord Community button](https://github.com/rishipurwar1/coding-space/issues/28) | `REACTJS` `TAILWINDCSS` `FIREBASE`|
-| 47. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [Fix challenge details page blank screen](https://github.com/rishipurwar1/coding-space/issues/24) | `REACTJS` `TAILWINDCSS` `FIREBASE`|
-| 48. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [Card and button lack hover effect](https://github.com/rishipurwar1/coding-space/issues/26) | `REACTJS` `TAILWINDCSS` `FIREBASE`|
-| 49. | [dry-python/classes](https://github.com/dry-python/classes) | [Add `Any` alias to `object`](https://github.com/dry-python/classes/issues/307) | `Python` |
-| 50. | [Attack on Web](https://github.com/felixfaisal/attack-on-web) | [Fix Linting](https://github.com/felixfaisal/attack-on-web/issues/31) | `JavaScript` `NodeJs` |
-| 51. | [Formica](https://github.com/felixfaisal/formica)| [Use Docker Volumes instead of Copy](https://github.com/felixfaisal/formica/issues/55) | `Docker` |
-| 52. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Adding a sidebar index in standard output](https://github.com/prafulla-codes/express-autodocs/issues/19) | `Javascript ExpressJs` |
-| 53. | [Express-autodocs](https://github.com/prafulla-codes/express-autodocs)| [Beautify standard documentation page](https://github.com/prafulla-codes/express-autodocs/issues/2) | `Javascript ExpressJs`|
+# Contributing to GDSC-AIT
 
-### Find complete list of beginner-friendly repositories at [`ISSUES.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/ISSUES.md)
+First off, thanks for taking the time to contribute! ❤️
 
-## Beginner-friendly repositories
+All types of contributions are encouraged and valued. See the [Table of Contents](#table-of-contents) for different ways to help and details about how this project handles them. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for us maintainers and smooth out the experience for all involved. The community looks forward to your contributions. 🎉
 
-| Serial No. | Repository  | Issues  | Pull Requests  | Forks |
-|:--|:--|:--|:--|:--|
-| 1. | [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)  | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/inspirational-quotes?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/inspirational-quotes/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/inspirational-quotes?style=social&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/inspirational-quotes?style=flat-square&logo=git)](https://github.com/vinitshahdeo/inspirational-quotes/network) |
-| 2. | [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/jobtweets?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/jobtweets/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/jobtweets?style=social&logo=github)](https://github.com/vinitshahdeo/jobtweets/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/jobtweets?style=flat-square&logo=git)](https://github.com/vinitshahdeo/jobtweets/network) |
-| 3. | [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Email-Signature-Template?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Email-Signature-Template/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Email-Signature-Template?style=social&logo=github)](https://github.com/vinitshahdeo/Email-Signature-Template/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Email-Signature-Template?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Email-Signature-Template/network) |
-| 4. | [Hackathon-Timer](https://github.com/vinitshahdeo/Hackathon-Timer) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Hackathon-Timer?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Hackathon-Timer/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Hackathon-Timer?style=social&logo=github)](https://github.com/vinitshahdeo/Hackathon-Timer/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Hackathon-Timer?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Hackathon-Timer/network) |
-| 5. | [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Cookie-Manager?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Cookie-Manager/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Cookie-Manager?style=social&logo=github)](https://github.com/vinitshahdeo/Cookie-Manager/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Cookie-Manager?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Cookie-Manager/network) |
-| 6. | [Hacktoberfest-21-Open-First-PR](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR) | [![GitHub issues](https://img.shields.io/github/issues/iamdevvalecha/Hacktoberfest-21-Open-First-PR?color=red&logo=github&style=flat-square)](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/iamdevvalecha/Hacktoberfest-21-Open-First-PR?style=social&logo=github)](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/iamdevvalecha/Hacktoberfest-21-Open-First-PR?style=flat-square&logo=git)](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR/network) |
-| 7. | [Caucus](https://github.com/Rishabh-malhotraa/caucus) | [![GitHub issues](https://img.shields.io/github/issues/Rishabh-malhotraa/caucus?color=red&logo=github&style=flat-square)](https://github.com/Rishabh-malhotraa/caucus) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Rishabh-malhotraa/caucus?style=social&logo=github)](https://github.com/Rishabh-malhotraa/caucus/pulls) | [![GitHub forks](https://img.shields.io/github/forks/Rishabh-malhotraa/caucus?style=flat-square&logo=git)](https://github.com/Rishabh-malhotraa/caucus/) |
-| 8. | [DSA-Java](https://github.com/utkarsh1504/DSA-Java) | [![GitHub issues](https://img.shields.io/github/issues/utkarsh1504/DSA-Java?color=red&logo=github&style=flat-square)](https://github.com/utkarsh1504/DSA-Java) | [![GitHub PRs](https://img.shields.io/github/issues-pr/utkarsh1504/DSA-Java?style=social&logo=github)](https://github.com/utkarsh1504/DSA-Java/pulls) | [![GitHub forks](https://img.shields.io/github/forks/utkarsh1504/DSA-Java?style=flat-square&logo=git)](https://github.com/utkarsh1504/DSA-Java/) |
-| 9. | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Quotter?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Quotter/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Quotter?style=social&logo=github)](https://github.com/vinitshahdeo/Quotter/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Quotter?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Quotter/network) |
-| 10. | [SimpleBio](https://github.com/vinitshahdeo/SimpleBio/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/SimpleBio?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/SimpleBio/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/SimpleBio?style=social&logo=github)](https://github.com/vinitshahdeo/SimpleBio/pulls) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/SimpleBio?style=flat-square&logo=git)](https://github.com/vinitshahdeo/SimpleBio/network) |
-| 11. | [HBD](https://github.com/vinitshahdeo/HBD) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/HBD?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/HBD/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/HBD?style=social&logo=github)](https://github.com/vinitshahdeo/HBD/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/HBD?style=flat-square&logo=git)](https://github.com/vinitshahdeo/HBD/network) |
-| 12. | [Hashtagify](https://github.com/vinitshahdeo/Hashtagify) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Hashtagify?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Hashtagify/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Hashtagify?style=social&logo=github)](https://github.com/vinitshahdeo/Hashtagify/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Hashtagify?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Hashtagify/network) |
-| 13. | [online-debate-system](https://github.com/vinitshahdeo/online-debate-system) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/online-debate-system?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/online-debate-system/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/online-debate-system?style=social&logo=github)](https://github.com/vinitshahdeo/online-debate-system/pulls) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system?style=flat-square&logo=git)](https://github.com/vinitshahdeo/online-debate-system/network)  |
-| 14. | [MiniYouTube](https://github.com/vinitshahdeo/MiniYouTube) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/MiniYouTube?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/MiniYouTube/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/MiniYouTube?style=social&logo=github)](https://github.com/vinitshahdeo/MiniYouTube/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/MiniYouTube?style=flat-square&logo=git)](https://github.com/vinitshahdeo/MiniYouTube/network) |
-| 15. | [TwitterSentimentAnalysis](https://github.com/vinitshahdeo/TwitterSentimentAnalysis) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/TwitterSentimentAnalysis?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/TwitterSentimentAnalysis?style=social&logo=github)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/TwitterSentimentAnalysis?style=flat-square&logo=git)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/network) |
-| 16. | [PortScanner](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/PortScanner/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=social&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/PortScanner?style=flat-square&logo=git)](https://github.com/vinitshahdeo/PortScanner/network) |
-| 17. | [Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=social&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Water-Monitoring-System?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Water-Monitoring-System/network) |
-| 18. | [Map-of-India](https://github.com/vinitshahdeo/Map-of-India) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Map-of-India?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Map-of-India/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Map-of-India?style=social&logo=github)](https://github.com/vinitshahdeo/Map-of-India/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Map-of-India?style=flat-square&logo=git)](https://github.com/vinitshahdeo/Map-of-India/network) |
-| 19. | [ProgressiveNewsApp](https://github.com/vinitshahdeo/ProgressiveNewsApp) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/ProgressiveNewsApp?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/ProgressiveNewsApp/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/ProgressiveNewsApp?style=social&logo=github)](https://github.com/vinitshahdeo/ProgressiveNewsApp/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/ProgressiveNewsApp?style=flat-square&logo=git)](https://github.com/vinitshahdeo/ProgressiveNewsApp/network) |
-| 20. | [covid19api](https://github.com/vinitshahdeo/covid19api) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/covid19api?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/covid19api/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/covid19api?style=social&logo=github)](https://github.com/vinitshahdeo/covid19api/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/covid19api?style=flat-square&logo=git)](https://github.com/vinitshahdeo/covid19api/network) |
-| 21. | [myFaculty](https://github.com/vinitshahdeo/myFaculty) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/myFaculty?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/myFaculty/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/myFaculty?style=social&logo=github)](https://github.com/vinitshahdeo/myFaculty/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/myFaculty?style=flat-square&logo=git)](https://github.com/vinitshahdeo/myFaculty/network) |
-| 22. | [Recruitment Portal](https://github.com/vinitshahdeo/Recruitment-Portal) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Recruitment-Portal?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Recruitment-Portal/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Recruitment-Portal?style=social&logo=github)](https://github.com/vinitshahdeo/Recruitment-Portal/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Recruitment-Portal?style=flat-square&logo=git)](https://github.com/vinitshahdeo/myFaculty/network) |
-| 23. | [Resizrr](https://github.com/thisisamank/resizrr/) | [![GitHub issues](https://img.shields.io/github/issues/thisisamank/resizrr?color=red&logo=github&style=flat-square)](https://github.com/thisisamank/resizrr) | [![GitHub PRs](https://img.shields.io/github/issues-pr/thisisamank/resizrr?style=social&logo=github)](https://github.com/thisisamank/resizrr/pulls) | [![GitHub forks](https://img.shields.io/github/forks/thisisamank/resizrr?style=flat-square&logo=git)](https://github.com/thisisamank/resizrr/) |
-| 24. | [Classified-ads-48](https://github.com/bacloud14/Classified-ads-48/) | [![GitHub issues](https://img.shields.io/github/issues/bacloud14/Classified-ads-48?color=red&logo=github&style=flat-square)](https://github.com/bacloud14/Classified-ads-48/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/bacloud14/Classified-ads-48?style=social&logo=github)](https://github.com/bacloud14/Classified-ads-48/pulls) | [![GitHub forks](https://img.shields.io/github/forks/bacloud14/Classified-ads-48?style=flat-square&logo=git)](https://github.com/bacloud14/Classified-ads-48/network) |
-| 25. | [T-Picker-Frontend](https://github.com/Binary-Cumates/T-Picker-Frontend) | [![GitHub issues](https://img.shields.io/github/issues/Binary-Cumates/T-Picker-Frontend?color=red&logo=github&style=flat-square)](https://github.com/Binary-Cumates/T-Picker-Frontend) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Binary-Cumates/T-Picker-Frontend?style=social&logo=github)](https://github.com/Binary-Cumates/T-Picker-Frontend/pulls) | [![GitHub forks](https://img.shields.io/github/forks/Binary-Cumates/T-Picker-Frontend?style=flat-square&logo=git)](https://github.com/Binary-Cumates/T-Picker-Frontend/network) |
-| 26. | [T-Picker-Backend](https://github.com/Binary-Cumates/T-Picker-Backend) | [![GitHub issues](https://img.shields.io/github/issues/Binary-Cumates/T-Picker-Backend?color=red&logo=github&style=flat-square)](https://github.com/Binary-Cumates/T-Picker-Backend) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Binary-Cumates/T-Picker-Backend?style=social&logo=github)](https://github.com/Binary-Cumates/T-Picker-Backend/pulls) | [![GitHub forks](https://img.shields.io/github/forks/Binary-Cumates/T-Picker-Backend?style=flat-square&logo=git)](https://github.com/Binary-Cumates/T-Picker-Backend/network) |
-| 27. | [CODINGSPACE](https://github.com/rishipurwar1/coding-space) | [![GitHub issues](https://img.shields.io/github/issues/rishipurwar1/coding-space?color=red&logo=github&style=flat-square)](https://github.com/rishipurwar1/coding-space/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/rishipurwar1/coding-space?style=social&logo=github)](https://github.com/rishipurwar1/coding-space/pulls) | [![GitHub forks](https://img.shields.io/github/forks/rishipurwar1/coding-space?style=flat-square&logo=git)](https://github.com/rishipurwar1/coding-space/network) |
-| 28. | [Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms) | [![GitHub issues](https://img.shields.io/github/issues/thepranaygupta/Data-Structures-and-Algorithms?color=red&logo=github&style=flat-square)](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/thepranaygupta/Data-Structures-and-Algorithms?style=social&logo=github)](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pulls) | [![GitHub forks](https://img.shields.io/github/forks/thepranaygupta/Data-Structures-and-Algorithms?style=flat-square&logo=git)](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/network/members) |
-| 29. | [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) | [![GitHub issues](https://img.shields.io/github/issues/wemake-services/wemake-python-styleguide?color=red&logo=github&style=flat-square)](https://github.com/wemake-services/wemake-python-styleguide/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/wemake-services/wemake-python-styleguide?style=social&logo=github)](https://github.com/wemake-services/wemake-python-styleguide/pulls) | [![GitHub forks](https://img.shields.io/github/forks/wemake-services/wemake-python-styleguide?style=flat-square&logo=git)](https://github.com/wemake-services/wemake-python-styleguide/network/members) |
-| 30. | [Opentek Organization](https://github.com/Opentek-Org/opentek) | [![GitHub issues](https://img.shields.io/github/issues/Opentek-Org/opentek?color=red&logo=github&style=flat-square)](https://github.com/Opentek-Org/opentek/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Opentek-Org/opentek?style=social&logo=github)](https://github.com/Opentek-Org/opentek/pulls) | [![GitHub forks](https://img.shields.io/github/forks/Opentek-Org/opentek?style=flat-square&logo=git)](https://github.com/Opentek-Org/opentek/network/members) |
-| 31. | [express-autodocs](https://github.com/prafulla-codes/express-autodocs) | [![GitHub issues](https://img.shields.io/github/issues/prafulla-codes/express-autodocs?color=red&logo=github&style=flat-square)](https://github.com/prafulla-codes/express-autodocs/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prafulla-codes/express-autodocs?style=social&logo=github)](https://github.com/prafulla-codes/express-autodocs/pulls) | [![GitHub forks](https://img.shields.io/github/forks/prafulla-codes/express-autodocs?style=flat-square&logo=git)](https://github.com/prafulla-codes/express-autodocs/network/members) |
+> And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
+>
+> - Star the project
+> - Tweet about it
+> - Refer this project in your project's readme
+> - Mention the project at local meetups and tell your friends/colleagues
 
-### Find complete list of beginner-friendly repositories at [`PROJECTS.md`](https://github.com/vinitshahdeo/Hacktoberfest2021/blob/main/explore/PROJECTS.md)
+<!-- omit in toc -->
+
+## Table of Contents
+
+- [I Have a Question](#i-have-a-question)
+- [I Want To Contribute](#i-want-to-contribute)
+  - [Reporting Bugs](#reporting-bugs)
+  - [Suggesting Enhancements](#suggesting-enhancements)
+  - [Your First Code Contribution](#your-first-code-contribution)
+  - [Improving The Documentation](#improving-the-documentation)
+- [Styleguides](#styleguides)
+  - [Commit Messages](#commit-messages)
+
+## I Have a Question
+
+> If you want to ask a question, we assume that you have read the available [Documentation](https://github.com/pranjay-poddar/Dev-Geeks/blob/main/README.md).
+> Before you ask a question, it is best to search for existing [Issues](https://github.com/DSC-AIT-Pune/Web-hacktoberfest2022/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
+
+If you then still feel the need to ask a question and need clarification, we recommend the following:
+
+- Open an Issue.
+- Provide as much context as you can about what you're running into.
+- Provide project and platform versions (nodejs, npm, etc), depending on what seems relevant.
+
+We will then take care of the issue as soon as possible.
+
+<!--
+You might want to create a separate issue tag for questions and include it in this description. People should then tag their issues accordingly.
+Depending on how large the project is, you may want to outsource the questioning, e.g. to Stack Overflow or Gitter. You may add additional contact and information possibilities:
+- IRC
+- Slack
+- Gitter
+- Stack Overflow tag
+- Blog
+- FAQ
+- Roadmap
+- E-Mail List
+- Forum
+-->
+
+## Basics of Git and GitHub
+
+### Git & GitHub
+
+Before we proceed, it's better to know the difference between Git and Github. Git is a version control system (VCS) that allows us to keep track of the history of our source code , whereas GitHub is a service that hosts Git projects.
+
+We assume you have created an account on Github and installed Git on your System.
+
+Now enter your name and E-mail (used on Github) address in Git, by using following command.
+
+`$ git config --global user.name "YOUR NAME"`
+` $ git config --global user.email "YOUR EMAIL ADDRESS"`
+This is an important step to mark your commits to your name and email.
+
+<br />
+
+### Fork a project
+
+You can make a copy of the project to your account. This process is called forking a project to your Github account. On Upper right side of project page on Github, you can see -
+
+<p align="center">  <img  src="https://i.imgur.com/P0n6f97.png">  </p>
+Click on fork to create a copy of project to your account. This creates a separate copy for you to work on.
+
+<br />
+
+<br />
+
+### Clone the forked project
+
+You have forked the project you want to contribute to your github account. To get this project on your development machine we use clone command of git.
+
+`$ git clone https://github.com/pranjay-poddar/Dev-Geeks.git` <br/>
+Now you have the project on your local machine.
+
+<br />
+
+### Add a remote (upstream) to original project repository
+
+Remote means the remote location of project on Github. By cloning, we have a remote called origin which points to your forked repository. Now we will add a remote to the original repository from where we had forked.
+
+`$ cd <your-forked-project-folder>`
+`$ git remote add upstream https://github.com/pranjay-poddar/Dev-Geeks.git` <br/>
+You will see the benefits of adding remote later.
+
+<br />
+
+### Synchronizing your fork
+
+Open Source projects have a number of contributors who can push code anytime. So it is necessary to make your forked copy equal with the original repository. The remote added above called Upstream helps in this.
+
+`$ git checkout main`
+`$ git fetch upstream`
+`$ git merge upstream/main`
+`$ git push origin main` <br/>
+The last command pushes the latest code to your forked repository on Github. The origin is the remote pointing to your forked repository on github.
+
+<br />
+
+### Create a new branch for a feature or bugfix
+
+Usually, all repositories have a main branch that is regarded to be stable, and any new features should be developed on a separate branch before being merged into the main branch. As a result, we should establish a new branch for our feature or bugfix and go to work on the issue.
+
+`$ git checkout -b <feature-branch>`
+This will create a new branch out of master branch. Now start working on the problem and commit your changes.
+
+`$ git add --all`
+`$ git commit -m "<commit message>"`
+The first command adds all the files or you can add specific files by removing -a and adding the file names. The second command gives a message to your changes so you can know in future what changes this commit makes. If you are solving an issue on original repository, you should add the issue number like #35 to your commit message. This will show the reference to commits in the issue.
+
+<br />
+
+### Push code and create a pull request
+
+You now have a new branch containing the modifications you want in the project you forked. Now, push your new branch to your remote github fork.
+
+`$ git push origin <feature-branch>`
+Now you are ready to help the project by opening a pull request means you now tell the project managers to add the feature or bug fix to original repository. You can open a pull request by clicking on green icon -
+
+<p align="center">  <img  src="https://i.imgur.com/aGaqAD5.png">  </p>
+
+Remember your upstream base branch should be main and source should be your feature branch. Click on create pull request and add a name to your pull request. You can also describe your feature.
+
+Fantastic! You've already made your first contribution.🥳
+
+#### BE OPEN!
+
+#### Happy Coding 👩‍💻👩‍💻
+
+## I Want To Contribute
+
+> ### Legal Notice <!-- omit in toc -->
+>
+> When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
+
+### Reporting Bugs
+
+<!-- omit in toc -->
+
+#### Before Submitting a Bug Report
+
+A good bug report shouldn't leave others needing to chase you up for more information. Therefore, we ask you to investigate carefully, collect information and describe the issue in detail in your report. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
+
+- Make sure that you are using the latest version.
+- Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions (Make sure that you have read the [documentation](https://github.com/DSC-AIT-Pune/HacktoberFest2022/blob/main/README.md). If you are looking for support, you might want to check [this section](#i-have-a-question)).
+- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the _**bug tracker**_.
+- Also make sure to search the internet (including Stack Overflow) to see if users outside of the GitHub community have discussed the issue.
+- Collect information about the bug:
+  - Stack trace (Traceback)
+  - OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
+  - Version of the interpreter, compiler, SDK, runtime environment, package manager, depending on what seems relevant.
+  - Possibly your input and the output
+  - Can you reliably reproduce the issue? And can you also reproduce it with older versions?
+
+<!-- omit in toc -->
+
+#### How Do I Submit a Good Bug Report?
+
+> You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to the maintainer.
+
+<!-- You may add a PGP key to allow the messages to be sent encrypted as well. -->
+
+We use GitHub issues to track bugs and errors. If you run into an issue with the project:
+
+- Open an [Issue](https://github.com/DSC-AIT-Pune/Web-hacktoberfest2022/issues). (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
+- Explain the behavior you would expect and the actual behavior.
+- Please provide as much context as possible and describe the _reproduction steps_ that someone else can follow to recreate the issue on their own. This usually includes your code. For good bug reports you should isolate the problem and create a reduced test case.
+- Provide the information you collected in the previous section.
+
+Once it's filed:
+
+- The project team will label the issue accordingly.
+- A team member will try to reproduce the issue with your provided steps. If there are no reproduction steps or no obvious way to reproduce the issue, the team will ask you for those steps and mark the issue as `needs-repro`. Bugs with the `needs-repro` tag will not be addressed until they are reproduced.
+- If the team is able to reproduce the issue, it will be marked `needs-fix`, as well as possibly other tags (such as `critical`), and the issue will be left to be [implemented by someone](#your-first-code-contribution).
+
+<!-- You might want to create an issue template for bugs and errors that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
+
+### Suggesting Enhancements
+
+This section guides you through submitting an enhancement suggestion for Dev-Geeks, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
+
+<!-- omit in toc -->
+
+#### Before Submitting an Enhancement
+
+- Make sure that you are using the latest version.
+
+- Read the [documentation](https://github.com/DSC-AIT-Pune/HacktoberFest2022/blob/main/README.md) carefully and find out if the functionality is already covered, maybe by an individual configuration.
+- Perform a [search](https://github.com/DSC-AIT-Pune/Web-hacktoberfest2022/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+- Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
+
+<!-- omit in toc -->
+
+#### How Do I Submit a Good Enhancement Suggestion?
+
+Enhancement suggestions are tracked as [GitHub issues](https://github.com/DSC-AIT-Pune/Web-hacktoberfest2022/issues)
+
+- Use a **clear and descriptive title** for the issue to identify the suggestion.
+- Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
+- **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
+- You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. <!-- this should only be included if the project has a GUI -->
+- **Explain why this enhancement would be useful** to most Dev-Geeks users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
+
+<!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
+
+### Your First Code Contribution
+
+Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
+
+If you have never contributed to an open source project before and you’re just getting started, consider exploring these resources.
+
+[First contributions](https://github.com/firstcontributions/first-contributions) is a hands-on tutorial that walks you through contributions workflow on GitHub. When you complete the tutorial, you have made a contribution to the same project.
+
+### Improving The Documentation
+
+If you want to improve the documentation then first go through [Creating Documentation](https://octoverse.github.com/creating-documentation/) website.
+
+## Styleguides
+
+### Commit Messages
+
+Commit Message should reflect the work you have done (resolve bug or add feature).
+<a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" align="right"/></a>
 
 ## Your First PR
 
